@@ -99,6 +99,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  // Hello, World!
 	  HAL_Delay(10);
     /* USER CODE END WHILE */
 
